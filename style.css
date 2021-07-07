@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@100&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -127,6 +129,7 @@ nav li:hover {
 .bottom {
     max-height: 40%;
     padding: 1rem 1rem 0 2rem;
+    font-family: 'Encode Sans SC', sans-serif;
     /* margin-bottom: 0; */    
 }
 
