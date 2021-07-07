@@ -53,6 +53,7 @@ nav ul li {
     transition: all ease .4s;
     font-size: 1.5;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 
